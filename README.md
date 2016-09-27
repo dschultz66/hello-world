@@ -1,3 +1,3 @@
 # hello-world
 
-Hi All wish I knew wha I shoul write here but I don't.
+Hi All wish I knew what I should write here but I don't.
